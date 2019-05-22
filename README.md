@@ -7,7 +7,7 @@ They might be partially or totally free or paid
 ## English to Swedish:
 ### Sites:
 
-- [Linguee](https://www.linguee.se/svensk-engelsk) Swedish dictionarie
+- [Linguee](https://www.linguee.se/svensk-engelsk) Swedish dictionary
 
 - [101languages](https://www.101languages.net/swedish/) helps with many languages
 
