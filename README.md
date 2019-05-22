@@ -6,6 +6,9 @@ They might be partially or totally free or paid
 
 ## English to Swedish:
 ### Sites:
+
+- [Linguee](https://www.linguee.se/svensk-engelsk) Swedish dictionarie
+
 - [101languages](https://www.101languages.net/swedish/) helps with many languages
 
 - [MyLanguages](http://mylanguages.org/learn_swedish.php) helps with many languages
