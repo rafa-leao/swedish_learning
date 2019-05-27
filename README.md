@@ -8,13 +8,13 @@ They might be partially or totally free or paid
 
 ### Sites:
 
-- [101languages](https://www.101languages.net/swedish/) helps with many languages
-
-- [MyLanguages](http://mylanguages.org/learn_swedish.php) helps with many languages
+- [SayItInSwedish](https://www.sayitinswedish.com/) helps with spotify podcast, youtube channel and more resources in theirs site. It's partially free but it still has lots of contents   
 
 - [Wikiversity](https://en.wikiversity.org/wiki/Introduction_to_Swedish) does good at teaching beginner Swedish
 
-- [SayItInSwedish](https://www.sayitinswedish.com/) helps with spotify podcast, youtube channel and more resources in theirs site. It's partially free but it still has lots of contents   
+- [101languages](https://www.101languages.net/swedish/) helps with many languages
+
+- [MyLanguages](http://mylanguages.org/learn_swedish.php) helps with many languages
 
 - [SwedishPod101](https://www.swedishpod101.com/swedish-vocabulary-lists/) has some sessions for free and it could help you to get some important vocabulary
 
