@@ -22,6 +22,11 @@ They might be partially or totally free and might paid
 
 ### Tools:
 
-- [Linguee](https://www.linguee.se/svensk-engelsk) dictionary
-- [Tinycards](https://tinycards.duolingo.com/) duolingo flash cards
-- [Quizlet](https://quizlet.com/pt-br) quizlet flash cards
+  - **Dictionary:**
+  
+    - [Linguee](https://www.linguee.se/svensk-engelsk) dictionary
+    
+  - **FlashCards:**
+  
+    - [Tinycards](https://tinycards.duolingo.com/) duolingo flash cards
+    - [Quizlet](https://quizlet.com/pt-br) quizlet flash cards
