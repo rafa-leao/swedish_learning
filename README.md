@@ -34,3 +34,9 @@ They might be partially or totally free and might paid
   
     - [Tinycards](https://tinycards.duolingo.com/)
     - [Quizlet](https://quizlet.com/pt-br)
+
+## Want to contribute?
+
+Well, since it's a tinny repo there is no step-by-step or templates to follow. 
+
+Open an issue or make a Pull Request so we can talk about your contribution.
