@@ -2,9 +2,7 @@
 
 Resources of any kind to help learning Swedish language
 
-They might be partially or totally free or paid
-
-## English to Swedish:
+They might be partially or totally free and might paid
 
 ### Sites:
 
@@ -18,14 +16,12 @@ They might be partially or totally free or paid
 
 - [SwedishPod101](https://www.swedishpod101.com/swedish-vocabulary-lists/) has some sessions for free and it could help you to get some important vocabulary
 
-### Tools:
-
-- [Linguee](https://www.linguee.se/svensk-engelsk)  dictionary
-- [Tinycards](https://tinycards.duolingo.com/) duolingo flash cards
-- [Quizlet](https://quizlet.com/pt-br) quizlet flash cards
-
-## Português para sueco:
-### Sites:
 - [Blog da Åsa](http://www.aprendasueco.com.br/) que eventualmente faz artigos sobre o aprendizado do sueco
 
 - [OneDrive da Åsa](https://onedrive.live.com/?id=3DD860E18A4B7777%212316&cid=3DD860E18A4B7777) que tem alguns materiais pra te ajudar
+
+### Tools:
+
+- [Linguee](https://www.linguee.se/svensk-engelsk) dictionary
+- [Tinycards](https://tinycards.duolingo.com/) duolingo flash cards
+- [Quizlet](https://quizlet.com/pt-br) quizlet flash cards
