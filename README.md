@@ -1,13 +1,10 @@
 # Swedish Learning
 
-Resources of any kind to help learning Swedish language
+Resources of any kind to help learning the Swedish language!
 
-They might be partially or totally free and might paid
-
-### Sites:
+### Web Sites:
 
 - [SayItInSwedish](https://www.sayitinswedish.com/) 
-  - helps with spotify podcast, youtube channel and more resources in theirs site. It's partially free but it still has lots of contents
 
 - [Wikiversity](https://en.wikiversity.org/wiki/Introduction_to_Swedish)  
 
@@ -16,6 +13,14 @@ They might be partially or totally free and might paid
 - [MyLanguages](http://mylanguages.org/learn_swedish.php)
 
 - [SwedishPod101](https://www.swedishpod101.com/swedish-vocabulary-lists/)
+
+### Apps:
+
+- [Learning Swedish By Swedish Institute](https://play.google.com/store/apps/details?id=com.learningswedish)
+
+- [Babbel](https://www.babbel.com/)
+
+- [Duolingo](https://en.duolingo.com/)
 
 ### Tools:
 
